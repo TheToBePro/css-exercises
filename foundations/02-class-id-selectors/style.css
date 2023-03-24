@@ -1,0 +1,18 @@
+.paragrph{
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+.paragrph.font-size{
+    font-size: 24px;
+}
+#div1{
+    color: blue;
+    font-size: 36px;
+}
+
+#div2{
+    background-color: rgb(112, 255, 112);
+    font-weight: bold;
+    font-size: 24px;
+}
